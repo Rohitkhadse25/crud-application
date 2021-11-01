@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Chetan Wankhede",
+      "username": "chetanwankhede",
+      "email": "chetanwankhede@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rohit khadse",
+      "username": "rohitkhadse",
+      "email": "rohitkhadse18@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "nikhil thakre",
+      "username": "nikhilthakre",
+      "email": "nikhilthakre@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Anand Shirbhaiyye",
+      "username": "Anand@1233",
+      "email": "anand@gmail.com",
+      "id": 7
+    }
+  ]
+}
